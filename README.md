@@ -4,7 +4,7 @@
 
 模擬金額：100,000 U
 
-模擬平台：tradingview
+模擬平台：tradingview (https://tw.tradingview.com/chart/NtmA8r7S/?symbol=BINANCE%3ABTCUSDT)
 
 計畫：1倍槓桿、少做交易
 
